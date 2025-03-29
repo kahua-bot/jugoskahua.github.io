@@ -1,19 +1,19 @@
 @media screen and (max-width:640px) {
 body {
     font-size: 16px;
-    background-color: white;
+    background-color: rgb(13, 165, 135);
 }   
    
 
 @medias creenand (max-width:900px) {
 
     body  {font-size:17px;
-        background-color:white;  
+        background-color: rgb(13,165,135);  
 }
 @media screen and (min-width: 1200px) {
         body {
         font-size: 20px;
-        background-color: white;
+        background-color: rgb(13,165,135);
         }
     
     
